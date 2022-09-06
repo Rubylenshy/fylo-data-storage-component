@@ -1,6 +1,6 @@
 # Frontend Mentor - Fylo data storage component
 
-![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Fylo data storage component coding challenge](assets/design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -14,7 +14,7 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Live Site URL: [Fylo Data Storage Component](http link here)
+- Live Site URL: [Fylo Data Storage Component](https://rubylenshy.github.io/fylo-data-storage-component/)
 
 
 ## Author
